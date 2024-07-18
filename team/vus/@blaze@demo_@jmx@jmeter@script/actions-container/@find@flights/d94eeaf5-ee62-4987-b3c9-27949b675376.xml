@@ -1,0 +1,15 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="" path="/reserve.php" postType="1"
+    serverUid="Blazedemo" slaProfileEnabled="false"
+    uid="d94eeaf5-ee62-4987-b3c9-27949b675376" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@blaze@demo_@jmx@jmeter@script/%resources%/recorded-responses/res_d94eeaf5-ee62-4987-b3c9-27949b675376</responsePageFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="fromPort"
+        recordRawValue="" separator="=" value="Paris" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="toPort"
+        recordRawValue="" separator="=" value="Buenos Aires" valueMode="USE_VALUE"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

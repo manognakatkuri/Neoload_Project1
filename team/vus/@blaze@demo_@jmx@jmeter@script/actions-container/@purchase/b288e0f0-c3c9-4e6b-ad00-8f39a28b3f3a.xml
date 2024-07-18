@@ -1,0 +1,25 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="" path="/confirmation.php" postType="1"
+    serverUid="Blazedemo" slaProfileEnabled="false"
+    uid="b288e0f0-c3c9-4e6b-ad00-8f39a28b3f3a" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@blaze@demo_@jmx@jmeter@script/%resources%/recorded-responses/res_b288e0f0-c3c9-4e6b-ad00-8f39a28b3f3a</responsePageFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="zipCode"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="creditCardYear" recordRawValue="" separator="="
+        value="2017" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="address"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="city"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="creditCardMonth" recordRawValue="" separator="="
+        value="11" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cardType"
+        recordRawValue="" separator="=" value="visa" valueMode="USE_VALUE"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

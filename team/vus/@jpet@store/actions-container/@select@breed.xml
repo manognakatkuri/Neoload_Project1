@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="SelectBreed" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="57201e11-6238-4bd1-ad4e-39c703fb3996" weightsEnabled="false">
+    <weighted-embedded-action uid="4c906e5a-b02b-4dd4-92b1-8123a111c684"/>
+</basic-logical-action-container>

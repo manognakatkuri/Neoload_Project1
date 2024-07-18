@@ -1,0 +1,49 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="" path="/actions/Order.action" postType="1"
+    serverUid="Petstore" slaProfileEnabled="false"
+    uid="1e68baf7-a861-4dc6-9fad-56c5800dc733" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@jpet@store/%resources%/recorded-responses/res_1e68baf7-a861-4dc6-9fad-56c5800dc733</responsePageFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billToLastName" recordRawValue="" separator="="
+        value="XYX" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="order.billZip"
+        recordRawValue="" separator="="
+        value="H0JcxT6veejy2t_0yC0njNiUHiWp5XGMZWAuNqyt0tzrZbQEcSbWdkYvWsuyae2R4Gd4bmVFTC_sKme1QVwFhGKEKyifqibxidpo5BkSfqXzIirqTkgRMA==" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.cardType" recordRawValue="" separator="="
+        value="Visa" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.expiryDate" recordRawValue="" separator="="
+        value="12/03" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billToFirstName" recordRawValue="" separator="="
+        value="ABC" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billCity" recordRawValue="" separator="="
+        value="Palo Alto" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_sourcePage"
+        recordRawValue="" separator="="
+        value="eah8lIByjarwCQz1YvRUuDZ7--_qU1bdqXVwuyTqG4DwQwxh928yAC0DxQhhEvyx4f4Dn9Z0mXt1uK-ceotuHST3AlguLyISsTl4IvMi9jE=" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billAddress2" recordRawValue="" separator="="
+        value="MS UCUP02-206" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="newOrder"
+        recordRawValue="" separator="=" value="Continue" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billAddress1" recordRawValue="" separator="="
+        value="901 San Antonio Road" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.creditCard" recordRawValue="" separator="="
+        value="999 9999 9999 9999" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billState" recordRawValue="" separator="="
+        value="CA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billCountry" recordRawValue="" separator="="
+        value="USA" valueMode="USE_VALUE"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

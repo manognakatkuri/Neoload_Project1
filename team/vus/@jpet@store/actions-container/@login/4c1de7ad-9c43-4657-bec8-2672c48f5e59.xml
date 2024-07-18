@@ -1,0 +1,23 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="" path="/actions/Account.action" postType="1"
+    serverUid="Petstore" slaProfileEnabled="false"
+    uid="4c1de7ad-9c43-4657-bec8-2672c48f5e59" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@jpet@store/%resources%/recorded-responses/res_4c1de7ad-9c43-4657-bec8-2672c48f5e59</responsePageFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="password"
+        recordRawValue="" separator="=" value="j2ee" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="username"
+        recordRawValue="" separator="=" value="j2ee" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_sourcePage"
+        recordRawValue="" separator="="
+        value="3azIuwMPgJSE_CQ7YcyxRhNOo23Bcqv9o7rntW_-8STkG7MIPlrJgjGHT2JF2IYRaEDVRl0NoJ4nOkRbZiAzPryc_1LTWilLbDUngdDfTxc=" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="__fp"
+        recordRawValue="" separator="="
+        value="iadnOqPxWlXECQV839b969LDOZ0XLBfgEALLQgppRsg33y6FJnXyKsOCDpIqe9KN" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="signon"
+        recordRawValue="" separator="=" value="Login" valueMode="USE_VALUE"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

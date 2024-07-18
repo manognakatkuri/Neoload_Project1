@@ -1,0 +1,26 @@
+<if-action name="IfLoginCheck" uid="fbe1e900-3f39-47b5-b523-ad22d59aae39">
+    <then-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the condition is true.</description>
+        <weighted-embedded-action uid="3c970e12-b0be-45f9-ba90-a708bfe43f75"/>
+        <weighted-embedded-action uid="ec9d289e-6e78-403f-a8db-07324e6b3eba"/>
+        <weighted-embedded-action uid="5184228f-e87b-4d25-8de9-81051cf53b2a"/>
+        <weighted-embedded-action uid="7490d315-7f7c-4634-956d-850e227d6524"/>
+        <weighted-embedded-action uid="096c7e60-c70c-4da6-b0ba-ef0910c21fe1"/>
+        <weighted-embedded-action uid="1899f0b4-a0e7-4ac5-a262-712b16925057"/>
+        <weighted-embedded-action uid="43ae0021-54fe-41b9-ad81-9539b6b37dec"/>
+        <weighted-embedded-action uid="a21075ce-04a0-4ec2-9298-5da4ef158519"/>
+        <weighted-embedded-action uid="39e1f97f-a6ca-4a33-a357-fe9908010d46"/>
+        <weighted-embedded-action uid="55bc6fe0-33e7-48d0-8957-0fcb9d64fb78"/>
+    </then-container>
+    <else-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the condition is false.</description>
+        <weighted-embedded-action uid="b6db05c9-561f-4ab3-895d-6d8384c3517d"/>
+    </else-container>
+    <conditions match-type="1">
+        <condition operand1="${LoginCheck}" operand2="Welcome" operator="EQUALS"/>
+    </conditions>
+</if-action>

@@ -1,0 +1,15 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/actions/Cart.action" postType="1"
+    serverUid="Petstore" slaProfileEnabled="false"
+    uid="3d3e06c7-e79f-4cbf-8096-fec1e912e66b" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@jpet@store/%resources%/recorded-responses/res_3d3e06c7-e79f-4cbf-8096-fec1e912e66b</responsePageFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="addItemToCart"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="workingItemId"
+        recordRawValue="" separator="=" value="EST-6" valueMode="USE_VALUE"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

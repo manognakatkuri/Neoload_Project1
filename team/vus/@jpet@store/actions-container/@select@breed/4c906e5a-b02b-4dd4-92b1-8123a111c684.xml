@@ -1,0 +1,15 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/actions/Catalog.action" postType="1"
+    serverUid="Petstore" slaProfileEnabled="false"
+    uid="4c906e5a-b02b-4dd4-92b1-8123a111c684" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@jpet@store/%resources%/recorded-responses/res_4c906e5a-b02b-4dd4-92b1-8123a111c684</responsePageFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="viewProduct"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="productId"
+        recordRawValue="" separator="=" value="K9-BD-01" valueMode="USE_VALUE"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

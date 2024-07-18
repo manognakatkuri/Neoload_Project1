@@ -1,0 +1,10 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="1" serverUid="Blazedemo"
+    slaProfileEnabled="false" uid="393769ab-043b-4520-8676-ca19741c6bdb" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@blaze@demo_@jmx@jmeter@script/%resources%/recorded-responses/res_393769ab-043b-4520-8676-ca19741c6bdb</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

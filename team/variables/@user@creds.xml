@@ -1,0 +1,7 @@
+<variable-file delimiters="," filename="C:/Users/E10688062/Desktop/Neoload/UserCred.csv" name="UserCreds" offset="1" order="3" policy="5" range="1" uid="d73c18c2-c0eb-43a4-b476-eae355dad6e1" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="Choosepet" number="4"/>
+<column name="FirstName" number="2"/>
+<column name="Petcategory" number="3"/>
+<column name="password" number="1"/>
+<column name="username" number="0"/>
+</variable-file>
